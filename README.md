@@ -1,4 +1,4 @@
 
 
-![Karl Lok's github stats](https://github-readme-stats.vercel.app/api?username=whitelok&show_icons=true&theme=buefy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Karl Lok's github stats](https://github-readme-stats.vercel.app/api?username=whitelok&show_icons=true&theme=default&bg_color=fff,fff,fff&title_color=2968cf&text_color=2968cf)
 
