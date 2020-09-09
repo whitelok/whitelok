@@ -1,6 +1,6 @@
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/unavailable/)
+[![Linkedin](https://raw.githubusercontent.com/whitelok/whitelok/master/imgs/linkedin.png) LinkedIn](https://www.linkedin.com/in/unavailable/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/whitelok)
+[![GitHub](https://raw.githubusercontent.com/whitelok/whitelok/master/imgs/github.png) GitHub](https://github.com/whitelok)
 
 ![Karl Lok's github stats](https://github-readme-stats.vercel.app/api?username=whitelok&show_icons=true&theme=graywhite&hide_title=true)
 
