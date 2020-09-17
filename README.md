@@ -6,7 +6,7 @@
 
 ### Product
 
-[Apps with around 1.5 million users](http://whitelok.github.io/resources/TalkingData-20190629.pdf)
+[[Statistics]Developed Apps serve 1.5 million users](http://whitelok.github.io/resources/TalkingData-20190629.pdf)
 
 
 ![image](https://giffiles.alphacoders.com/209/209343.gif)
