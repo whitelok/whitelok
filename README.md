@@ -2,6 +2,6 @@
 &nbsp;
 [![GitHub](https://raw.githubusercontent.com/whitelok/whitelok/master/imgs/github.png) GitHub](https://github.com/whitelok)
 
-![Whitelok's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitelok&rank_icon=percentile)
+![Whitelok's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitelok&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitelok&layout=compact)](https://github.com/whitelok/github-readme-stats)
