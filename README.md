@@ -2,6 +2,6 @@
 &nbsp;
 [![GitHub](https://raw.githubusercontent.com/whitelok/whitelok/master/imgs/github.png) GitHub](https://github.com/whitelok)
 
-<img src="https://github-profile-trophy.vercel.app/?username=whitelok&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+![Whitelok's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitelok&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitelok&layout=compact)](https://github.com/whitelok/github-readme-stats)
